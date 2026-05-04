@@ -1,0 +1,51 @@
+customer_id,customer_name,city,segment,last_modified
+C001,Customer_001,Ho Chi Minh,Retail,2024-01-01 00:00:00
+C002,Customer_002,Hue,Wholesale,2024-01-01 00:00:00
+C003,Customer_003,Can Tho,Wholesale,2024-01-01 00:00:00
+C004,Customer_004,Ho Chi Minh,Retail,2024-01-01 00:00:00
+C005,Customer_005,Nha Trang,Retail,2024-01-01 00:00:00
+C006,Customer_006,Hanoi,Retail,2024-01-01 00:00:00
+C007,Customer_007,Can Tho,Wholesale,2024-01-01 00:00:00
+C008,Customer_008,Hanoi,Wholesale,2024-01-01 00:00:00
+C009,Customer_009,Nha Trang,Wholesale,2024-01-01 00:00:00
+C010,Customer_010,Vung Tau,Online,2024-01-01 00:00:00
+C011,Customer_011,Hanoi,Wholesale,2024-01-01 00:00:00
+C012,Customer_012,Nha Trang,Online,2024-01-01 00:00:00
+C013,Customer_013,Hue,Wholesale,2024-01-01 00:00:00
+C014,Customer_014,Can Tho,Online,2024-01-01 00:00:00
+C015,Customer_015,Ho Chi Minh,Retail,2024-01-01 00:00:00
+C016,Customer_016,Nha Trang,Retail,2024-01-01 00:00:00
+C017,Customer_017,Hai Phong,Online,2024-01-01 00:00:00
+C018,Customer_018,Hue,Retail,2024-01-01 00:00:00
+C019,Customer_019,Vung Tau,Retail,2024-01-01 00:00:00
+C020,Customer_020,Nha Trang,Retail,2024-01-01 00:00:00
+C021,Customer_021,Hue,Online,2024-01-01 00:00:00
+C022,Customer_022,Can Tho,Retail,2024-01-01 00:00:00
+C023,Customer_023,Hanoi,Wholesale,2024-01-01 00:00:00
+C024,Customer_024,Hue,Retail,2024-01-01 00:00:00
+C025,Customer_025,Can Tho,Retail,2024-01-01 00:00:00
+C026,Customer_026,Nha Trang,Online,2024-01-01 00:00:00
+C027,Customer_027,Vung Tau,Online,2024-01-01 00:00:00
+C028,Customer_028,Da Nang,Online,2024-01-01 00:00:00
+C029,Customer_029,Hai Phong,Wholesale,2024-01-01 00:00:00
+C030,Customer_030,Hue,Retail,2024-01-01 00:00:00
+C031,Customer_031,Da Nang,Wholesale,2024-01-01 00:00:00
+C032,Customer_032,Da Nang,Corporate,2024-01-01 00:00:00
+C033,Customer_033,Nha Trang,Online,2024-01-01 00:00:00
+C034,Customer_034,Can Tho,Online,2024-01-01 00:00:00
+C035,Customer_035,Hanoi,Wholesale,2024-01-01 00:00:00
+C036,Customer_036,Hanoi,Online,2024-01-01 00:00:00
+C037,Customer_037,Nha Trang,Online,2024-01-01 00:00:00
+C038,Customer_038,Ho Chi Minh,Wholesale,2024-01-01 00:00:00
+C039,Customer_039,Hai Phong,Wholesale,2024-01-01 00:00:00
+C040,Customer_040,Vung Tau,Corporate,2024-01-01 00:00:00
+C041,Customer_041,Vung Tau,Wholesale,2024-01-01 00:00:00
+C042,Customer_042,Hue,Wholesale,2024-01-01 00:00:00
+C043,Customer_043,Can Tho,Online,2024-01-01 00:00:00
+C044,Customer_044,Nha Trang,Corporate,2024-01-01 00:00:00
+C045,Customer_045,Hai Phong,Wholesale,2024-01-01 00:00:00
+C046,Customer_046,Da Nang,Corporate,2024-01-01 00:00:00
+C047,Customer_047,Ho Chi Minh,Retail,2024-01-01 00:00:00
+C048,Customer_048,Ho Chi Minh,Wholesale,2024-01-01 00:00:00
+C049,Customer_049,Da Nang,Corporate,2024-01-01 00:00:00
+C050,Customer_050,Ho Chi Minh,Corporate,2024-01-01 00:00:00

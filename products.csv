@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,last_modified
+P001,Product_001,Home & Garden,299.96,2024-01-01 00:00:00
+P002,Product_002,Home & Garden,266.91,2024-01-01 00:00:00
+P003,Product_003,Sports,431.09,2024-01-01 00:00:00
+P004,Product_004,Electronics,341.74,2024-01-01 00:00:00
+P005,Product_005,Electronics,342.45,2024-01-01 00:00:00
+P006,Product_006,Sports,376.68,2024-01-01 00:00:00
+P007,Product_007,Food & Beverage,60.22,2024-01-01 00:00:00
+P008,Product_008,Home & Garden,83.29,2024-01-01 00:00:00
+P009,Product_009,Electronics,477.14,2024-01-01 00:00:00
+P010,Product_010,Food & Beverage,486.08,2024-01-01 00:00:00
+P011,Product_011,Clothing,256.3,2024-01-01 00:00:00
+P012,Product_012,Electronics,435.91,2024-01-01 00:00:00
+P013,Product_013,Food & Beverage,421.63,2024-01-01 00:00:00
+P014,Product_014,Sports,306.44,2024-01-01 00:00:00
+P015,Product_015,Clothing,190.09,2024-01-01 00:00:00
+P016,Product_016,Clothing,271.99,2024-01-01 00:00:00
+P017,Product_017,Sports,459.65,2024-01-01 00:00:00
+P018,Product_018,Sports,165.46,2024-01-01 00:00:00
+P019,Product_019,Electronics,60.37,2024-01-01 00:00:00
+P020,Product_020,Food & Beverage,439.97,2024-01-01 00:00:00
+P021,Product_021,Food & Beverage,123.53,2024-01-01 00:00:00
+P022,Product_022,Clothing,439.61,2024-01-01 00:00:00
+P023,Product_023,Electronics,47.4,2024-01-01 00:00:00
+P024,Product_024,Home & Garden,408.93,2024-01-01 00:00:00
+P025,Product_025,Sports,384.09,2024-01-01 00:00:00
+P026,Product_026,Clothing,331.58,2024-01-01 00:00:00
+P027,Product_027,Sports,86.74,2024-01-01 00:00:00
+P028,Product_028,Sports,436.85,2024-01-01 00:00:00
+P029,Product_029,Home & Garden,482.36,2024-01-01 00:00:00
+P030,Product_030,Sports,378.86,2024-01-01 00:00:00
